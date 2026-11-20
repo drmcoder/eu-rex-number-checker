@@ -7,6 +7,7 @@ authors:
   - name: "Trishakti Apparel"
     website: "https://trishaktiapparel.com"
 version: "1.0.0"
+doi: 10.5281/zenodo.24402310
 date-released: 2026-11-20
 license: MIT
 url: "https://trishaktiapparel.com/tools/rex-checker/"

@@ -1,5 +1,7 @@
 # EU REX number checker
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24402310.svg)](https://doi.org/10.5281/zenodo.24402310)
+
 Check **EU REX numbers** (Registered Exporter system) against the European Commission's public REX database: one number or up to 10 at once. Returns the status (valid, not valid, not found), the registration date, and the exporter's name and country. No API key needed.
 
 **Use it online, free:** [trishaktiapparel.com/tools/rex-checker/](https://trishaktiapparel.com/tools/rex-checker/) · [Deutsch](https://trishaktiapparel.com/de/tools/rex-checker/)
@@ -33,4 +35,4 @@ The tests use made-up pages in the Commission's layout; no real exporter data is
 This tool shows what the Commission's public database says. It is not customs or legal advice. The Commission's database is the official record.
 
 ## Licence and credit
-MIT, see [LICENSE](LICENSE). Made by [Trishakti Apparel](https://trishaktiapparel.com), a knitwear factory in Gaindakot, Nepal, registered in REX. If you use it in research or a publication, please cite it (see `CITATION.cff`). Also part of our [open tools for knitwear buyers](https://github.com/SAHARA-Labs-Nepal/nepal-knitwear-sourcing-tools).
+MIT, see [LICENSE](LICENSE). Made by [Trishakti Apparel](https://trishaktiapparel.com), a knitwear factory in Gaindakot, Nepal, registered in REX. If you use it in research or a publication, please cite it: Trishakti Apparel, *EU REX number checker*, Zenodo, [doi:10.5281/zenodo.24402310](https://doi.org/10.5281/zenodo.24402310) (all versions; see `CITATION.cff`). Also part of our [open tools for knitwear buyers](https://github.com/SAHARA-Labs-Nepal/nepal-knitwear-sourcing-tools).
