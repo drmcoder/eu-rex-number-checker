@@ -1,0 +1,9 @@
+{
+  "name": "eu-rex-number-checker",
+  "version": "1.0.0",
+  "description": "Check EU REX numbers against the European Commission public REX database.",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=22.18" },
+  "scripts": { "test": "node test/test.mjs" }
+}

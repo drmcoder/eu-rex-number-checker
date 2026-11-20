@@ -1,0 +1,12 @@
+{
+  "title": "EU REX number checker",
+  "description": "<p>Checks EU Registered Exporter (REX) numbers against the European Commission's public REX database, one or up to ten at a time, returning status, registration date, exporter name and country. No API key is needed. Free online version: <a href=\"https://trishaktiapparel.com/tools/rex-checker/\">trishaktiapparel.com/tools/rex-checker/</a>. Made by Trishakti Apparel, a knitwear factory in Gaindakot, Nepal.</p>",
+  "upload_type": "software",
+  "creators": [{ "name": "Trishakti Apparel" }],
+  "license": "MIT",
+  "keywords": ["REX", "registered exporter", "rules of origin", "EU GSP", "customs", "import duty", "statement on origin"],
+  "related_identifiers": [
+    { "identifier": "https://trishaktiapparel.com/tools/rex-checker/", "relation": "isSupplementTo", "resource_type": "other" },
+    { "identifier": "https://github.com/SAHARA-Labs-Nepal/nepal-knitwear-sourcing-tools", "relation": "isPartOf", "resource_type": "software" }
+  ]
+}

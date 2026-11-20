@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "EU REX number checker"
+abstract: "Checks EU Registered Exporter (REX) numbers against the European Commission's public REX database, one or up to ten at a time, returning status, registration date, exporter name and country."
+type: software
+authors:
+  - name: "Trishakti Apparel"
+    website: "https://trishaktiapparel.com"
+version: "1.0.0"
+date-released: 2026-11-20
+license: MIT
+url: "https://trishaktiapparel.com/tools/rex-checker/"
+repository-code: "https://github.com/drmcoder/eu-rex-number-checker"
+keywords: [REX, registered exporter, rules of origin, EU GSP, customs, import duty, statement on origin]
